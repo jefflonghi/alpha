@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!doctype html public "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
 <head>
 	<title>Title.</title>
@@ -8,26 +8,21 @@
 <body>
 
 <div id="header">
-	<h1>Header</h1>
+	<h1>Hello Alpha</h1>
 </div>
 <div class="colmask threecol">
 	<div class="colmid">
 		<div class="colleft">
-			<div class="col1">
-				<!-- Column 1 start -->
+			<div class="col1"><!-- Column 1 start -->
 				<h2> Column 1</h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse imperdiet malesuada lectus, id dapibus felis suscipit vel. Aenean turpis neque, porta sit amet vehicula non, viverra et nunc. Nulla fringilla, turpis non sagittis adipiscing, nisi orci imperdiet dui, vel ultricies leo nulla sit amet eros. Duis pellentesque tempus tincidunt. Aenean aliquam egestas tortor, id fermentum nunc ornare imperdiet. Nullam quis tristique ligula. In sit amet neque a purus tempus fringilla. Donec auctor mauris nec lorem porttitor ullamcorper. Cras pretium elementum nisi, sit amet lobortis lectus mattis eu. Nam sodales libero ut nibh pharetra commodo. Nullam vestibulum lorem in odio fermentum laoreet. Maecenas id porttitor sapien. Integer cursus aliquet sollicitudin.</p>
-			<p>Nam pulvinar tempus nisl, ut fermentum erat tincidunt nec. Donec volutpat euismod pharetra. Duis et justo tellus, id ornare ligula. Donec porta posuere lectus, in euismod nibh adipiscing at. Cras ut neque arcu. Quisque eros enim, faucibus at rhoncus quis, adipiscing quis nunc. Nulla vitae tortor justo, id varius elit. Sed consequat, libero in varius volutpat, odio diam dapibus orci, eget imperdiet augue velit vitae nisl. Aenean augue nisi, molestie nec bibendum quis, bibendum nec leo. Donec feugiat suscipit metus vitae pellentesque. Donec nunc felis, tempus ut blandit a, vehicula ut sem. Aliquam erat volutpat. Cras at erat libero. Ut facilisis convallis odio, sit amet sodales erat mollis sed. Aliquam rutrum elit at odio congue eu dignissim nunc iaculis. Quisque sit amet nisl ligula, commodo ullamcorper sapien. Pellentesque eros ante, laoreet sed volutpat nec, pellentesque eu est. Aenean laoreet eleifend nunc, quis consequat urna ultricies et. Nunc vitae mauris ante, et tempus nibh.</p>
-				<!-- Column 1 end -->
+			<p>Nam pulvinar tempus nisl, ut fermentum erat tincidunt nec. Donec volutpat euismod pharetra. Duis et justo tellus, id ornare ligula. Donec porta posuere lectus, in euismod nibh adipiscing at. Cras ut neque arcu. Quisque eros enim, faucibus at rhoncus quis, adipiscing quis nunc. Nulla vitae tortor justo, id varius elit. Sed consequat, libero in varius volutpat, odio diam dapibus orci, eget imperdiet augue velit vitae nisl. Aenean augue nisi, molestie nec bibendum quis, bibendum nec leo. Donec feugiat suscipit metus vitae pellentesque. Donec nunc felis, tempus ut blandit a, vehicula ut sem. Aliquam erat volutpat. Cras at erat libero. Ut facilisis convallis odio, sit amet sodales erat mollis sed. Aliquam rutrum elit at odio congue eu dignissim nunc iaculis. Quisque sit amet nisl ligula, commodo ullamcorper sapien. Pellentesque eros ante, laoreet sed volutpat nec, pellentesque eu est. Aenean laoreet eleifend nunc, quis consequat urna ultricies et. Nunc vitae mauris ante, et tempus nibh.</p><!-- Column 1 end -->
 			</div>
-			<div class="col2">
-				<!-- Column 2 start -->
+			<div class="col2"><!-- Column 2 start -->
 				<h2>Column 2</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse imperdiet malesuada lectus, id dapibus felis suscipit vel. Aenean turpis neque, porta sit amet vehicula non, viverra et nunc. Nulla fringilla, turpis non sagittis adipiscing, nisi orci imperdiet dui, vel ultricies leo nulla sit amet eros. Duis pellentesque tempus tincidunt. Aenean aliquam egestas tortor, id fermentum nunc ornare imperdiet. Nullam quis tristique ligula. In sit amet neque a purus tempus fringilla. Donec auctor mauris nec lorem porttitor ullamcorper. Cras pretium elementum nisi, sit amet lobortis lectus mattis eu. Nam sodales libero ut nibh pharetra commodo. Nullam vestibulum lorem in odio fermentum laoreet. Maecenas id porttitor sapien. Integer cursus aliquet sollicitudin.</p>
-				<!-- Column 2 end -->
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse imperdiet malesuada lectus, id dapibus felis suscipit vel. Aenean turpis neque, porta sit amet vehicula non, viverra et nunc. Nulla fringilla, turpis non sagittis adipiscing, nisi orci imperdiet dui, vel ultricies leo nulla sit amet eros. Duis pellentesque tempus tincidunt. Aenean aliquam egestas tortor, id fermentum nunc ornare imperdiet. Nullam quis tristique ligula. In sit amet neque a purus tempus fringilla. Donec auctor mauris nec lorem porttitor ullamcorper. Cras pretium elementum nisi, sit amet lobortis lectus mattis eu. Nam sodales libero ut nibh pharetra commodo. Nullam vestibulum lorem in odio fermentum laoreet. Maecenas id porttitor sapien. Integer cursus aliquet sollicitudin.</p><!-- Column 2 end -->
 			</div>
-			<div class="col3">
-				<!-- Column 3 start -->
+			<div class="col3"><!-- Column 3 start -->
 				<div id="ads">
 					ads
 				</div>
@@ -41,21 +36,28 @@
 				</ul>
 				<h3>Mac</h3>
 				<ul>
-					<li>Safari</li>
-					<li>Firefox</li>
-					<li>Opera 9.25</li>
+					<li>Safari 
+  
+					<li>Firefox 
+  
+					<li>Opera 9.25 
+  
 					<li>Netscape 9.0.0.5 &amp; 7.1</li>
 				</ul>
 				<h3>Windows</h3>
 				<ul>
-					<li>Firefox 1.5, 2 &amp; 3</li>
-					<li>Safari</li>
-					<li>Opera 8.1 &amp; 9</li>
-					<li>Google Chrome</li>
-					<li>Explorer 5.5, 6 &amp; 7</li>
+					<li>Firefox 1.5, 2 &amp; 3 
+  
+					<li>Safari 
+  
+					<li>Opera 8.1 &amp; 9 
+  
+					<li>Google Chrome 
+  
+					<li>Explorer 5.5, 6 &amp; 7 
+  
 					<li>Netscape 8</li>
-				</ul>
-				<!-- Column 3 end -->
+				</ul><!-- Column 3 end -->
 			</div>
 		</div>
 	</div>
